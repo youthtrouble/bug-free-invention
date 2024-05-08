@@ -1,0 +1,15 @@
+/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessmenyt_3/bin/Debug/net8.0/Assessmenyt_3
+/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessmenyt_3/bin/Debug/net8.0/Assessmenyt_3.deps.json
+/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessmenyt_3/bin/Debug/net8.0/Assessmenyt_3.runtimeconfig.json
+/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessmenyt_3/bin/Debug/net8.0/Assessmenyt_3.dll
+/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessmenyt_3/bin/Debug/net8.0/Assessmenyt_3.pdb
+/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessmenyt_3/obj/Debug/net8.0/Assessmenyt_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessmenyt_3/obj/Debug/net8.0/Assessmenyt_3.AssemblyInfoInputs.cache
+/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessmenyt_3/obj/Debug/net8.0/Assessmenyt_3.AssemblyInfo.cs
+/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessmenyt_3/obj/Debug/net8.0/Assessmenyt_3.csproj.CoreCompileInputs.cache
+/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessmenyt_3/obj/Debug/net8.0/Assessmenyt_3.sourcelink.json
+/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessmenyt_3/obj/Debug/net8.0/Assessmenyt_3.dll
+/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessmenyt_3/obj/Debug/net8.0/refint/Assessmenyt_3.dll
+/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessmenyt_3/obj/Debug/net8.0/Assessmenyt_3.pdb
+/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessmenyt_3/obj/Debug/net8.0/Assessmenyt_3.genruntimeconfig.cache
+/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessmenyt_3/obj/Debug/net8.0/ref/Assessmenyt_3.dll
