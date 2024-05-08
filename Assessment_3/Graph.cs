@@ -1,4 +1,4 @@
-namespace Assessmenyt_3
+namespace Assessment_3
 {
     // Represents a graph data structure with directed edges between named nodes.
     public class Graph

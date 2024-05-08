@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessment_3/Assessment_3.csproj": {}
+    "/Users/dejiajibola/RiderProjects/Assessment_3/Assessment_3/Assessment_3.csproj": {}
   },
   "projects": {
-    "/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessment_3/Assessment_3.csproj": {
+    "/Users/dejiajibola/RiderProjects/Assessment_3/Assessment_3/Assessment_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessment_3/Assessment_3.csproj",
+        "projectUniqueName": "/Users/dejiajibola/RiderProjects/Assessment_3/Assessment_3/Assessment_3.csproj",
         "projectName": "Assessment_3",
-        "projectPath": "/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessment_3/Assessment_3.csproj",
+        "projectPath": "/Users/dejiajibola/RiderProjects/Assessment_3/Assessment_3/Assessment_3.csproj",
         "packagesPath": "/Users/dejiajibola/.nuget/packages/",
-        "outputPath": "/Users/dejiajibola/RiderProjects/Assessmenyt_3/Assessment_3/obj/",
+        "outputPath": "/Users/dejiajibola/RiderProjects/Assessment_3/Assessment_3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dejiajibola/.nuget/NuGet/NuGet.Config"

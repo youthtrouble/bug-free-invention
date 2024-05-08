@@ -1,36 +1,36 @@
-﻿namespace Assessmenyt_3
+﻿namespace Assessment_3
 {
     class Program
     {
         static void Main(string[] args)
         {
             // Initialize a new Graph to represent a social network.
-            Graph socialNetwork = new Graph();
+            Graph linkedInNetwork = new Graph();
 
             // Add nodes to the graph representing individuals in the social network.
             string[] names = { "Anwar", "Dave", "Haniya", "Rob", "Peggy", "Rabia" };
             foreach (var name in names)
             {
-                socialNetwork.AddNode(name);
+                linkedInNetwork.AddNode(name);
             }
 
             // Establish directed edges between nodes to represent one-way friendships.
-            socialNetwork.AddEdge("Anwar", "Dave");
-            socialNetwork.AddEdge("Dave", "Haniya");
-            socialNetwork.AddEdge("Haniya", "Anwar");
-            socialNetwork.AddEdge("Rob", "Haniya");
-            socialNetwork.AddEdge("Peggy", "Rob");
-            socialNetwork.AddEdge("Rabia", "Peggy");
+            linkedInNetwork.AddEdge("Anwar", "Dave");
+            linkedInNetwork.AddEdge("Dave", "Haniya");
+            linkedInNetwork.AddEdge("Haniya", "Anwar");
+            linkedInNetwork.AddEdge("Rob", "Haniya");
+            linkedInNetwork.AddEdge("Peggy", "Rob");
+            linkedInNetwork.AddEdge("Rabia", "Peggy");
 
             // Print the graph to the console for verification of structure.
-            socialNetwork.PrintGraph();
+            linkedInNetwork.PrintGraph();
 
             // Output the number of nodes and edges in the graph.
-            Console.WriteLine("Number of nodes: " + socialNetwork.NumberOfNodes());
-            Console.WriteLine("Number of edges: " + socialNetwork.NumberOfEdges());
+            Console.WriteLine("Number of nodes: " + linkedInNetwork.NumberOfNodes());
+            Console.WriteLine("Number of edges: " + linkedInNetwork.NumberOfEdges());
 
             // Perform a Breadth-First Search (BFS) starting from 'Anwar' and print the visited nodes.
-            GraphNode startNode = socialNetwork.GetNodeByName("Anwar");
+            GraphNode startNode = linkedInNetwork.GetNodeByName("Anwar");
             BreadthFirstSearcher bfs = new BreadthFirstSearcher();
             List<string> visitedNames = bfs.ExecuteBFS(startNode);
 
@@ -41,7 +41,7 @@
             }
             
             // Check if it is possible to traverse from 'Anwar' to 'Rabia' within the network.
-            bool canTraverse = socialNetwork.IsTraversalPossible("Anwar", "Rabia");
+            bool canTraverse = linkedInNetwork.IsTraversalPossible("Anwar", "Rabia");
             Console.WriteLine("Can traverse from Anwar to Rabia: " + canTraverse);
 
             // Prompt the user to press any key to exit the program.

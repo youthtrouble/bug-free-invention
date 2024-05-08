@@ -1,4 +1,4 @@
-namespace Assessmenyt_3
+namespace Assessment_3
 {
     // Implements the Breadth-First Search algorithm for graphs represented by nodes.
     public class BreadthFirstSearcher

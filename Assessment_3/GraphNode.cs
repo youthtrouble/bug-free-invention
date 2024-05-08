@@ -1,4 +1,4 @@
-namespace Assessmenyt_3
+namespace Assessment_3
 {
     // Represents a node in a graph with a name and a list of directed edges to other nodes.
     public class GraphNode
